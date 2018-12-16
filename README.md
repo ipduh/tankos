@@ -18,6 +18,11 @@ hardware:
     breadboard cables , a tiny breadbord, 4 18650s, a twin 18650 case that connects them in series
     two single 18650 cases , dc jacks , H bridges , plywood , screws , random pieces of clear plastic, etc
 
+UNO configuration:
+    Moters digital 2 , 3 , 7 , 8
+    SR04   digital 5 , 6
+    Servo  digital 9
+
 ```
 
 ```
@@ -25,6 +30,10 @@ software:
 
     C instead of C++
     Atmel Studio instead of Arduino IDE
+
+```
+
+```
 
 ```
 
